@@ -11,9 +11,9 @@ Projeto desenvolvido com o objetivo de demonstrar:
 * Meus projetos
 
 ### Tecnologias ultilizadas neste projeto
-*HTML5
-*CSS3
-*JavaScript
-*React
-*Git
-*GitHub
+* HTML5
+* CSS3
+* JavaScript
+* React
+* Git
+* GitHub
