@@ -1,5 +1,5 @@
 # Portifolio Web
-Portifolio  web desenvolcido em React
+Portifolio  web desenvolvido em React
 
 Esse projeto foi desenvolvido para demonstrar minhas habilidades técnicas em desenvolvimento web.
 
