@@ -14,9 +14,8 @@ function About() {
         <div className="about__data">
           <Info />
           <p className="about__description">
-            Desenvolvedor Web Full Stack. Crio páginas web com UI / UX user interface, APIs, 
-            Bancos de dados relacionais e não relacionais, e também o Backend que consome API e
-            alimenta o Fronend.
+            Sou um Desenvolvedor Web Full Stack. Crio páginas web com UI/UX user interface. Também
+            crio e gerencio Bancos de dados e APIs.
           </p>
         </div>
       </div>

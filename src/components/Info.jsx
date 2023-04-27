@@ -9,7 +9,7 @@ function Info() {
       </div>
       <div className="about__box">
         <h3 className="about__title">Concluídos</h3>
-        <span className="about__subtitle">35+ projetos</span>
+        <span className="about__subtitle">25+ projetos</span>
       </div>
       <div className="about__box">
         <h3 className="about__title">Suporte</h3>
