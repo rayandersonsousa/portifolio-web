@@ -8,9 +8,9 @@ export const projectsData = [
   {
     id: 1,
     image: Work1,
-    title: "Placeholder",
-    git: "web",
-    app: "test",
+    title: "Star Wars Planets Search",
+    git: "https://github.com/rayandersonsousa/project-starwars-planets-search",
+    app: "https://starwars-planets-search-rayanderson.vercel.app/",
   },
   {
     id: 2,
